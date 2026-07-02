@@ -1,3 +1,9 @@
 img {
     width: 60%
 }
+
+body {
+    text-align: center;
+    background-color: #791414;
+    color: #bec0be;
+}

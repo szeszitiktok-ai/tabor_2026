@@ -4,3 +4,28 @@
     border-color: black;
     border-radius:  30px;
 }
+.kl{
+    font-family: cursive;
+    font-style: italic;
+    border: 10px;
+    border-style: dotted;
+    border-color: aqua;
+}
+#kl1{
+    border: 10px;
+    border-style: solid;
+    border-color: rgb(100, 150, 20);
+}
+
+#kl2{
+    border: 10px;
+    border-style: solid;
+    border-color: royalblue;
+}
+body{
+    background-color: green
+    ;
+}
+#oklevel img{
+    width: 100%
+}
